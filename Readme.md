@@ -1,17 +1,16 @@
 # NexGen Logistics Control Tower
 
 ## 📘 Table of Contents
-1. [Problem Statement](#1-problem-statement-the-logistics-trilemma-)
-2. [Our Solution](#2-our-solution-the-logistics-control-tower-v20-)
-3. [Key Features](#3-key-features-)
+1. [Problem Statement](#1-problem-statement-the-logistics-trilemma)
+2. [Our Solution](#2-our-solution-the-logistics-control-tower)
+3. [Key Features](#3-key-features)
 4. [Project Structure](#4-project-structure-)
-5. [Setup & Usage](#5-setup--usage-running-on-localhost-)
-6. [How It Works](#6-how-it-works-dashboard-functionality-)
-7. [Technical Stack & KPIs](#7-technical-stack--kpis-)
-8. [Data Requirements](#8-data-requirements-)
-9. [Troubleshooting](#9-troubleshooting-)
-10. [License](#10-license-)
-
+5. [Setup & Usage](#5-setup--usage-running-on-localhost)
+6. [How It Works](#6-how-it-works-️)
+7. [Technical Stack & KPIs](#7-technical-stack--kpis)
+8. [Data Requirements](#8-data-requirements)
+9. [Troubleshooting](#9-troubleshooting)
+    
 ---
 
 ## 1. Problem Statement: The Logistics Trilemma
