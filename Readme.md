@@ -110,7 +110,7 @@ Access the dashboard at: **http://localhost:8501**
 
 ---
 
-## 6. How It Works ⚙️
+## 6. How It Works
 
 * **Tabs**: Navigate between strategic, profitability, service, and fleet views.  
 * **Sidebar Filters**: Adjust by Date, Carrier, Segment, and more.  
@@ -143,7 +143,7 @@ Seven CSV files required in the project root:
 6. `vehicle_fleet.csv`
 7. `warehouse_inventory.csv`
 
-Refer to **Innovation_Brief.pdf** for detailed schema.
+Refer to **Mayank_Chopra.pdf** for detailed schema.
 
 ---
 
